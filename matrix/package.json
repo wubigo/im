@@ -1,0 +1,16 @@
+{/
+  "name": "matrix",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "matrix-js-sdk": "^12.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
